@@ -1,0 +1,14 @@
+REST is an architectural design for styling API's.
+SOAP,GRAPHQL
+
+to create RESTful API's-
+1. use http request verbs.
+2. use specific patterns of routes/endpoint url.
+
+1.What is http request verbs -
+a> GET - READ 
+b> POST - CREATE
+c> PUT - UPDATE Database by giving whole new entry.
+d> PATCH - UPDATE Database by giving the entry which needs to updated.
+e> DELETE - DELETE 
+
